@@ -15,7 +15,7 @@ using namespace std;
 int
 main (int argc, char** argv)
 {
-  math::Sphere maSphere1 (5);
+  math::Sphere maSphere1 (7.5);
 
   cout << maSphere1.reqVolumeFormate ();
 
